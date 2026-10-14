@@ -190,9 +190,3 @@ navegador com a aplicação.
 - **Tela desatualizada após alterar código:** compile novamente e recarregue
   o navegador, ou utilize `dotnet watch`.
 
-## Referências
-
-- Enunciado fornecido: `lista blazor dragonball.pdf`, páginas 1 e 2.
-- [Endpoint de exemplo](https://dragonball-api.com/api/characters/1).
-- [Documentação da Dragon Ball API](https://web.dragonball-api.com/documentation).
-
